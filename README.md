@@ -5,6 +5,12 @@
 * 投资是概率事件-提升胜率
 * 净值会波动-预防意外的措施
 
+## 工具
+### 量化
+* 乌龟量化 - https://androidinvest.com/
+* 集思录 - https://www.jisilu.cn/
+* 迈博汇金 - http://www.microbell.com/
+
 ----------------------------
 ## 投资
 ### 选择
