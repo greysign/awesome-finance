@@ -11,8 +11,10 @@
 * 乌龟量化 - https://androidinvest.com/
 * 集思录 - https://www.jisilu.cn/
 * 迈博汇金 - http://www.microbell.com/
+* Fund - http://www.zodiacn.ltd/fund
 ### 基金
 * 小瑜哥 https://space.bilibili.com/333010040
+
 ----------------------------
 ## 投资
 ### 选择
