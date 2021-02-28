@@ -18,6 +18,7 @@
 * 集思录 - https://www.jisilu.cn/
 * 迈博汇金 - http://www.microbell.com/
 * Fund - http://www.zodiacn.ltd/fund
+* 橙子大学 - https://space.bilibili.com/1589802019/video
 ### 基金
 * 小瑜哥 https://space.bilibili.com/333010040
 
