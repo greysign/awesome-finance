@@ -19,8 +19,9 @@
 * 迈博汇金 - http://www.microbell.com/
 * Fund - http://www.zodiacn.ltd/fund
 * 橙子大学 - https://space.bilibili.com/1589802019/video
-### 基金
-* 小瑜哥 https://space.bilibili.com/333010040
+* 雷公（油管） - https://www.youtube.com/channel/UCZyTcQHJGKkGeotf0vWA7Rg
+* 雷公（b站）- https://space.bilibili.com/588472826
+* hedeng - https://space.bilibili.com/520284310
 
 ----------------------------
 ## 投资
