@@ -22,6 +22,7 @@
 * 雷公（油管） - https://www.youtube.com/channel/UCZyTcQHJGKkGeotf0vWA7Rg
 * 雷公（b站）- https://space.bilibili.com/588472826
 * hedeng - https://space.bilibili.com/520284310
+* 投资必修课 - https://lonecapital.com/courses/must-learn/
 
 ### 书
 * 金融炼金术
