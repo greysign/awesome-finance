@@ -23,6 +23,10 @@
 * 雷公（b站）- https://space.bilibili.com/588472826
 * hedeng - https://space.bilibili.com/520284310
 
+### 书
+* 金融炼金术
+* 和谐交易
+
 ----------------------------
 ## 投资
 ### 选择
