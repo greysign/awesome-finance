@@ -25,11 +25,8 @@ Trade what your see。
 ### 量化
 * 乌龟量化 - https://androidinvest.com/
 * 集思录 - https://www.jisilu.cn/
-* 迈博汇金 - http://www.microbell.com/
-* Fund - http://www.zodiacn.ltd/fund
 * 橙子大学 - https://space.bilibili.com/1589802019/video
 * hedeng - https://space.bilibili.com/520284310
-* 投资必修课 - https://lonecapital.com/courses/must-learn/
 
 ### 书
 * 金融炼金术
@@ -180,3 +177,7 @@ Trade what your see。
 	- 个股占比不能极端
 2. 不用杠杆，保持现金头寸
 	- 应对意料之外
+
+## 加密货币
+### 共识
+* PoS 是谎言么？- https://www.xiaoyuzhoufm.com/episode/6322ca7faa52d69848cf3866
