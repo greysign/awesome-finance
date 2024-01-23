@@ -11,6 +11,11 @@ Trade what your see。
 
 朴素生活、持续奋斗、资本积累
 
+持久的成功：万花筒策略
+https://hbr.org/2004/02/success-that-lasts
+
+
+
 
 ## 基本思路
 普通人：
