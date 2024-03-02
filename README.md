@@ -27,15 +27,12 @@ https://hbr.org/2004/02/success-that-lasts
 * 净值会波动-预防意外的措施
 
 ## 收藏夹
-### 量化
-* 乌龟量化 - https://androidinvest.com/
-* 集思录 - https://www.jisilu.cn/
-* 橙子大学 - https://space.bilibili.com/1589802019/video
-* hedeng - https://space.bilibili.com/520284310
+
 
 ### 书
 * 金融炼金术
-* 和谐交易
+* 道氏理论
+* 股票大作手操盘术
 
 ### 理念
 * 反身性理论 - https://wiki.mbalib.com/wiki/%E7%B4%A2%E7%BD%97%E6%96%AF%E7%9A%84%E5%8F%8D%E5%B0%84%E7%90%86%E8%AE%BA
