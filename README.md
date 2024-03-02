@@ -14,7 +14,8 @@ Trade what your see。
 持久的成功：万花筒策略
 https://hbr.org/2004/02/success-that-lasts
 
-
+交易日记：
+https://www.zhihu.com/people/greysign/posts
 
 
 ## 基本思路
