@@ -30,10 +30,15 @@ https://www.zhihu.com/people/greysign/posts
 ## 收藏夹
 
 
-### 书
+### 学习资料
 * 金融炼金术
 * 道氏理论
 * 股票大作手操盘术
+* 财富的起源
+* 21世纪资本论
+* 像哲学家一样生活
+* 经济学 - 钱颖一（https://www.bilibili.com/video/BV1Nb4y1d7AB/）
+* 置身事内
 
 ### 理念
 * 反身性理论 - https://wiki.mbalib.com/wiki/%E7%B4%A2%E7%BD%97%E6%96%AF%E7%9A%84%E5%8F%8D%E5%B0%84%E7%90%86%E8%AE%BA
