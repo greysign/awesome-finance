@@ -14,6 +14,10 @@ Trade what your see。
 持久的成功：万花筒策略
 https://hbr.org/2004/02/success-that-lasts
 
+
+
+[一切在乎对的人](https://github.com/greysign/awesome-finance/blob/main/一切在乎对的人.txt)
+
 交易日记：
 https://www.zhihu.com/people/greysign/posts
 
@@ -141,7 +145,7 @@ https://www.zhihu.com/people/greysign/posts
 * 改变不了的事，就别太纠结。牢骚满腹、怨天尤人是人生大忌。（查理.芒格）
 * 人生的起点并不是那么重要，重要的是最后抵达了哪里。（沃伦.巴菲特）
 * 有两样东西，是钱买不来的：时间和爱。（沃伦.巴菲特）
-* 人生三蠢：与人争辩、听人胡说、干的不主动。 [https://github.com/greysign/awesome-finance/blob/main/%E4%BA%BA%E7%94%9F%E4%B8%89%E8%A0%A2.txt]
+* 人生三蠢：与人争辩、听人胡说、干的不主动。 - [人生三蠢](https://github.com/greysign/awesome-finance/blob/main/%E4%BA%BA%E7%94%9F%E4%B8%89%E8%A0%A2.txt)
 * 找到好伴侣，就成功了一大半。无论是在婚姻中，还是在商业上，斤斤计较都是个大毛病。（沃伦.巴菲特）
 * 人生三个阶段
 	- make living 谋生，勤劳节俭
