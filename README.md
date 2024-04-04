@@ -41,11 +41,12 @@ https://www.zhihu.com/people/greysign/posts
 * 财富的起源
 * 21世纪资本论
 * 像哲学家一样生活
-* 经济学 - 钱颖一（https://www.bilibili.com/video/BV1Nb4y1d7AB/）
+* [经济学 - 钱颖一](https://www.bilibili.com/video/BV1Nb4y1d7AB/)
 * 置身事内
+* [认知偏差手册](https://s75w5y7vut.feishu.cn/docs/doccn3BatnScBJe7wD7K3S5poFf)
 
 ### 理念
-* 反身性理论 - https://wiki.mbalib.com/wiki/%E7%B4%A2%E7%BD%97%E6%96%AF%E7%9A%84%E5%8F%8D%E5%B0%84%E7%90%86%E8%AE%BA
+* [反身性理论](https://wiki.mbalib.com/wiki/%E7%B4%A2%E7%BD%97%E6%96%AF%E7%9A%84%E5%8F%8D%E5%B0%84%E7%90%86%E8%AE%BA)
 
 ### 交易系统重要性排列
 1、长期市场趋势
