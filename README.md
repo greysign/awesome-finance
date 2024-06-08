@@ -14,7 +14,7 @@ Trade what your see。
 持久的成功：万花筒策略
 https://hbr.org/2004/02/success-that-lasts
 
-
+现金流就是氧气瓶，短暂的缺氧就会死亡。
 
 [一切在乎对的人](https://github.com/greysign/awesome-finance/blob/main/一切在乎对的人.txt)
 
@@ -30,6 +30,17 @@ https://www.zhihu.com/people/greysign/posts
 * 人会犯错误-不完备信息下的决策
 * 投资是概率事件-提升胜率
 * 净值会波动-预防意外的措施
+* 不依赖基本面，关注盘面
+
+投资人：
+* 对自己能力范围内的对象计算其估值
+* 不碰存在技术革命的领域
+* 关注基本面和宏观
+* 买价格远远小于价值的
+
+投机客：
+* 挖掘机会，带着止损买入，控制仓位，分散交易避免集中风险
+
 
 ## 收藏夹
 
