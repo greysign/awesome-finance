@@ -21,6 +21,8 @@ https://hbr.org/2004/02/success-that-lasts
 交易日记：
 https://www.zhihu.com/people/greysign/posts
 
+[纠正性反馈回路](4496_1725940645.mp4)
+
 
 ## 基本思路
 普通人：
