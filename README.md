@@ -25,6 +25,9 @@ https://www.zhihu.com/people/greysign/posts
 
 
 ## 基本思路
+
+做空的人越来越聪明，做多的人越来越有钱 :)
+
 普通人：
 * 选择优质、趋势向好的资产、生产资料，买入后hold，至少以5年为单位
 
